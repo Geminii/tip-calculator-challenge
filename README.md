@@ -1,6 +1,42 @@
-# React Tailwindcss Boilerplate build with Vite
+# Frontend Mentor - Tip calculator app solution
 
-This is a [ReactJS](https://reactjs.org) + [Vite](https://vitejs.dev) boilerplate to be used with [Tailwindcss](https://tailwindcss.com).
+This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
+
+**Note: Delete this note and update the table of contents based on what sections you keep.**
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Calculate the correct tip and total cost of the bill per person
+
+<div float="left">
+  <img src="./challenge/design/mobile-design.jpg" width="21%" />
+  <img src="./challenge/design/desktop-preview.jpg" width="70%" />
+</div>
+
+### Links
+
+- Solution URL: [Frontend mentor](https://your-solution-url.com)
+- Live Site URL: [Online Demo](https://your-live-site-url.com)
 
 ## What is inside?
 
@@ -18,18 +54,6 @@ This project uses many tools like:
 ## Getting Started
 
 ### Install
-
-Create the project.
-
-```bash
-npx degit joaopaulomoraes/reactjs-vite-tailwindcss-boilerplate my-app
-```
-
-Access the project directory.
-
-```bash
-cd my-app
-```
 
 Install dependencies.
 
