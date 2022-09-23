@@ -6,6 +6,7 @@ module.exports = {
     extend: {
       colors: {
         primary: 'hsl(172, 67%, 45%)',
+        error: 'hsl(14, 31%, 58%)',
         neutral: {
           'dark-cyan': 'hsl(183, 100%, 15%)',
           'dark-grayish-cyan': 'hsl(186, 14%, 43%)',
