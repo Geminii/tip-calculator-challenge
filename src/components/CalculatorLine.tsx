@@ -17,7 +17,7 @@ export const CalculatorLine = ({
           / {description}
         </span>
       </div>
-      <p className="text-3xl text-primary">${amount}</p>
+      <p className="text-3xl text-primary">${amount.toFixed(2)}</p>
     </div>
   )
 }
