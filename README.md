@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor](https://your-solution-url.com)
-- Live Site URL: [Online Demo](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/tip-calculator-challenge-cf5NZ7vB9k)
+- Live Site URL: [Online Demo](https://tip-calculator-challenge-8899-eoqc6g65b-geminii.vercel.app/)
 
 ## What is inside?
 
